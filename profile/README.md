@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/assets/logo_dark.png" width="120" alt="Movistrato"/>
+<img src="assets/logo_dark.png" width="120" alt="Movistrato"/>
 
 <br/>
 <br/>
@@ -114,7 +114,7 @@ The first version is only the beginning.
 
 <div align="center">
 
-<img src="./profile/assets/faro_icon.png" width="94%" alt="Faro"/>
+<img src="assets/faro_icon.png" width="94%" alt="Faro"/>
 
 <br/>
 <br/>
